@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name's ho-tei, alias vanguard, I mostly work on unaffiliated projects related to Skyblock Gamemode offered by Hypixel.
+
 <!--
 **ho-tei/ho-tei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
